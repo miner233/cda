@@ -1,0 +1,37 @@
+---
+name: CDA.net Insider Preview Bug 汇报
+about: CDA.net Insider Preview 预览体验计划 Bug 汇报
+title: ''
+labels: Bug-Pre
+assignees: ''
+
+---
+请完整填写信息以便我们更快的解决该问题。<br>
+感谢你为 CDA.net Insider Preview 预览体验计划提交 Bug。<br>
+此处填写的是 CDA.net Insider Preview 预览体验计划的 Bug，链接：https://miner233.github.io/cda_pre<br>
+请**务必**填写三个必填项（遇到的问题，如何重现此问题，版本信息），若缺失这三个必填项，我们不会处理。
+
+# CDA.net Insider Preview Bug 汇报
+- [x] 我确认此问题在最新构建版本中的 CDA.net Insider Preview 预览体验计划中依然存在。
+- [x] 我确认在 Issues 列表中并无其他人已经提出过与此问题相同或相似的问题
+
+## 遇到的问题（必填）
+-（请在这里回答）-
+
+## 如何重现此问题？（必填）
+-（请在这里回答）-
+
+## 截图
+-（可选，如果可以请在这里附上）-
+
+## 可能造成问题的原因
+-（可选，若不知道，请填写 “不知道”）-
+
+## 可能的解决方案
+-（可选，若不知道，请填写 “不知道”）-
+
+## 版本信息（必填）
+CDA.net Insider Preview 预览体验计划内部版本号（更多 -> 帮助和支持 -> 关于 中的内部版本号信息）：
+
+## 备注:
+-（请在这里填写，如果没有，请填写 “无”）-
